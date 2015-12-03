@@ -1,1 +1,27 @@
-/* CSS declarations go here */
+video, canvas {
+  margin-left: 25%;
+  margin-top: 85px;
+  position: absolute;
+}
+#text3 {
+  margin-top: 775px;
+  background-color: rgb(142, 119, 218)
+}
+#text {
+  margin-top: 575px;
+    background-color: rgb(211, 215, 98)
+}
+#text2 {
+  margin-top: 1050px;
+  background-color: rgb(226, 78, 90)
+}
+#btn {
+  margin-left: 50%;
+  font-size: 28px;
+}
+p {
+  margin-left: 17.5%;
+  font-size: 22px;
+  margin-top: 55px;
+  position: absolute;
+}
